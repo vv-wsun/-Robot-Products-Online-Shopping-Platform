@@ -48,7 +48,7 @@ In the Index-page, user can perform a fuzzy keyword search based on their demand
 
 
 ## Business Process
- 
+![image](https://github.com/vv-wsun/Robot-Online-Shopping-Platform/blob/master/Business%20Logic.jpg) 
 ## Change Log
 ### Version 1.0 (2017/7/20)
 - complete Orderlist function 
